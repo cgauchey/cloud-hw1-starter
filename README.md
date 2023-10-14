@@ -2,6 +2,9 @@
 
 ## About ##
 
+Celine Gauchey cg2898
+Lexa Huang sh4350
+
 Frontend starter repository for HW 1 of the Cloud Computing & Big Data
 class at Columbia University and New York University.
 
